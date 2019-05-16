@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "3.3.4",
-    "@raydeck/jxon": "^3.0.0",
+    "@raydeck/jxon": "^3.0.1",
     "moment": "^2.19.3",
     "querystring": "0.2.0",
     "request": "2.88.0",
